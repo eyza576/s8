@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resolver</string>
+    <string name="txtpregunta">ayacucho cumplio 434 años de fundacion</string>
+    <string name="btnverdadero">VERDADERO</string>
+    <string name="btnfalso">FALSO</string>
+    <string name="btnsiguiente">SIGUIENTE</string>
+</resources>
